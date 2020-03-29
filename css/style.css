@@ -1,0 +1,28 @@
+body,h1 {font-family: "Raleway", Arial, sans-serif}
+h1 {letter-spacing: 10px}
+.w3-row-padding img {margin-bottom: 16px}
+
+button{
+display: flex;
+justify-content: center;
+align-items: center;
+
+background-color: #542135;
+  color: white;
+  border-radius: 12px;
+  width: 500px;
+  border: 1px solid white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+
+svg {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height:400px;
+}
